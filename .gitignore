@@ -12,7 +12,7 @@
 /build
 
 # all pictures
-/src/metacom/existing
+# /src/metacom/existing
 
 # misc
 .DS_Store
